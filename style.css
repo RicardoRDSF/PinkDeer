@@ -77,7 +77,7 @@ html,body{
     z-index: 9;
 }
 .mobile-logo{
-    background: url('./landingPage/images/pinkdeersitelogomobile.png') no-repeat;
+    background: url('./images/pinkdeersitelogomobile.png') no-repeat;
     background-size: contain;
     width: 85px;
     height: 85px;
