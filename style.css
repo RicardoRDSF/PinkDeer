@@ -69,7 +69,7 @@ html,body{
     text-shadow: 0 0 5px #FF00D7;
 }
 .logo{
-    background: url('landingPage/images/pinkdeersitelogo.png') no-repeat;
+    background: url('images/pinkdeersitelogo.png') no-repeat;
     background-size: contain;
     width: 130px;
     height: 130px;
